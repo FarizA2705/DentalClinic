@@ -25,6 +25,14 @@ Fitur Program<br>
 <img width="359" height="476" alt="Screenshot 2026-09-20 180555" src="https://github.com/user-attachments/assets/c259abec-8377-46b9-be96-4500196b7f52" /><br>
 <img width="272" height="224" alt="Screenshot 2026-09-20 180633" src="https://github.com/user-attachments/assets/79ad9e1f-72c0-4cdc-abe1-73fee09b6a1a" /><br>
 
+## Penjelasan Hierarki Class
+Manager merupakan superclass atau class induk.
+Dokter merupakan subclass yang mewarisi atribut dan method dari Manager.
+Pasien digunakan untuk menyimpan data pasien.
+Main merupakan class utama yang menjalankan program dan mengatur menu.
+Main digunakan untuk mengelola data pasien dan dokter selama program berjalan.
+
+Kasih alasannya juga dong tolong kenapa manager jadi super
 # 3. Penerapan Inheritance
 <img width="408" height="136" alt="Screenshot 2026-09-20 181334" src="https://github.com/user-attachments/assets/ff97f8e3-8d0a-40a2-b10d-dcfdc60a8683" /><br>
 
